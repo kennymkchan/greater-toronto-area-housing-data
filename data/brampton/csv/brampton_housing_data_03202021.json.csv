@@ -1,0 +1,546 @@
+address,price,details
+"6 Selsdon St, Brampton, ON L6X 3E3","C$899,900",4 bds3 ba- House for sale
+"3 Farnham Dr, Brampton, ON L6X 4H7","C$649,900",4 bds4 ba2 sqft- Condo for sale
+"223 Valleyway Dr, Brampton, ON L6X 0N9","C$1,299,999",4 bds4 ba- House for sale
+"32 Lobelia St, Brampton, ON L6R 3Z6","C$899,000",2 bds3 ba- Condo for sale
+"8 Darou Cres, Brampton, ON L6R 0N7","C$1,349,000",5 bds4 ba- House for sale
+"39 Ascot Ave, Brampton, ON L6T 2P3","C$999,900",3 bds2 ba- House for sale
+"48 Aberdeen Cres, Brampton, ON L6T 2P9","C$799,000",4 bds2 ba- House for sale
+"53 Ridgemore Cres, Brampton, ON L7A 2L4","C$799,900",3 bds3 ba- House for sale
+"21 Eagle Plain Dr, Brampton, ON L6R 3M6","C$1,199,000",3 bds4 ba- House for sale
+"41 Weather Vane Ln, Brampton, ON L6X 4R4","C$799,999",5 bds4 ba- House for sale
+"85 Calderstone Rd, Brampton, ON L6P 2A9","C$1,659,900",4 bds4 ba- House for sale
+"61 Haverstock Cres, Brampton, ON L7A 4E2","C$1,199,000",4 bds3 ba- House for sale
+"173 Earnscliffe Cir, Brampton, ON L6T 2B6","C$699,999",3 bds2 ba- House for sale
+"18 Snowy Wood Dr, Brampton, ON L7A 3E3","C$1,199,000",6 bds4 ba- House for sale
+"182 Rainforest Dr, Brampton, ON L6R 1A4","C$899,999",4 bds4 ba- House for sale
+"28 Jason Sq #L652L6, Brampton, ON L6S 2L6","C$699,999",4 bds2 ba- House for sale
+"94 Addington Cres, Brampton, ON L6T 2R3","C$829,999",5 bds3 ba- House for sale
+"64 Betterton Cres, Brampton, ON L7A 0S6","C$899,900",4 bds4 ba- Townhouse for sale
+"25 Crawford Dr, Brampton, ON L6V 2C6","C$729,000",4 bds2 ba- House for sale
+"11 Lotus St, Brampton, ON L6P 3E1","C$799,000",3 bds3 ba- Townhouse for sale
+"21 Shipmate Ave, Brampton, ON L6Z 0J2","C$749,000",3 bds4 ba- Townhouse for sale
+"47 Nelson St W, Brampton, ON L6X 1C2","C$899,000",3 bds2 ba- House for sale
+"76 Parity Rd, Brampton, ON L6X 5N5","C$1,479,999",4 bds4 ba- House for sale
+"16 Trevino Cres, Brampton, ON L6P 1L9","C$999,900",3 bds4 ba- House for sale
+"5 Bettey Rd, Brampton, ON L6P 1S9","C$1,499,900",4 bds6 ba- House for sale
+"6 Butlers Ct, Brampton, ON L6Y 3T8","C$1,399,000",5 bds4 ba- House for sale
+"22 Cumberland Dr, Brampton, ON L6V 1W6","C$799,900",3 bds2 ba- House for sale
+"177 Robert Parkinson Dr, Brampton, ON L7A 4H1","C$899,900",3 bds3 ba- House for sale
+"32 Watson Cres, Brampton, ON L6W 1E7","C$970,000","5 bds3 ba1,700 sqft- House for sale"
+"98 Silent Pond Cres, Brampton, ON L6V 4S9","C$849,900",3 bds4 ba- House for sale
+"11 Pennywood Rd, Brampton, ON L6V 2J6","C$749,900",3 bds2 ba- House for sale
+"152 Darras Ct, Brampton, ON L6T 1W7","C$599,000",4 bds2 ba- Condo for sale
+"73 Gilmore Dr, Brampton, ON L6V 3K3","C$629,000",3 bds2 ba- Townhouse for sale
+"9 Watson Cres, Brampton, ON L6W 1E5","C$929,000",3 bds3 ba- House for sale
+"54 Saint Grace Ct, Brampton, ON L6P 3B9","C$969,000",3 bds4 ba- House for sale
+"36 Forestgrove Cir, Brampton, ON L6Z 4T4","C$949,000",3 bds4 ba- House for sale
+"14 Watfive St, Brampton, ON L7A 4S4","C$1,399,000",5 bds6 ba- House for sale
+"98 Fleetwood Cres #118, Brampton, ON L6T 2E5","C$669,000",4 bds3 ba- Townhouse for sale
+"4 Red Cedar Cres, Brampton, ON L6R 1B2","C$1,169,000",4 bds4 ba- House for sale
+"3 Silver Willow Trl, Brampton, ON L6R 0P1","C$999,999",4 bds4 ba- House for sale
+"200 Malta Ave #36, Brampton, ON L6Y 6H8","C$829,900",3 bds3 ba- Townhouse for sale
+"64 Dorchester Dr, Brampton, ON L6T 3E4","C$999,900",3 bds3 ba- House for sale
+"45 Yorkland Blvd W #501, Brampton, ON L6P 4B4","C$489,999",1 bd1 ba- Condo for sale
+"24 Roundstone Dr, Brampton, ON L6X 0K7","C$1,525,000",6 bds4 ba- House for sale
+"146 Degrassi Cove Cir, Brampton, ON L6X 0N9","C$1,477,900",6 bds4 ba- House for sale
+"57 Robert Parkinson Dr, Brampton, ON L7A 0X5","C$988,888",4 bds3 ba- House for sale
+"2 Arabia Gate, Brampton, ON L6R 2N7","C$895,000","4 bds4 ba1,821 sqft- Townhouse for sale"
+"288 Archdekin Dr, Brampton, ON L6V 1Z4","C$599,900","3 bds1 ba1,053 sqft- House for sale"
+"18 Pepperbush Rd, Brampton, ON L6P 2L2","C$1,299,900",4 bds5 ba- House for sale
+"93 Hansen Rd N #4, Brampton, ON L6V 3C8","C$549,900","3 bds2 ba1,083 sqft- Townhouse for sale"
+"110 Oatfield Rd, Brampton, ON L6R 1Y6","C$795,000",3 bds3 ba- House for sale
+"5 Fern St, Brampton, ON L6Y 1X3","C$924,900",3 bds3 ba- House for sale
+"68 Sundridge St, Brampton, ON L7A 1J7","C$949,000",4 bds2 ba- House for sale
+"52 Quail Feather Cres, Brampton, ON L6R 1S1","C$829,000",3 bds4 ba- House for sale
+"22 Gallucci Cres, Brampton, ON L6P 1R2","C$1,379,000",4 bds4 ba- House for sale
+"6 Chesham Ct, Brampton, ON L6Z 1V6","C$1,299,000",8 bds5 ba- House for sale
+"4 Woodbury Ct, Brampton, ON L6Y 4K5","C$1,249,000",6 bds5 ba- House for sale
+"194 Millstone Dr, Brampton, ON L6Y 4P1","C$1,080,000",6 bds4 ba- House for sale
+"81 Dolphin Song Cres, Brampton, ON L6R 1Z9","C$749,900",4 bds4 ba- House for sale
+"208 Albright Rd, Brampton, ON L6X 5E7","C$799,000",3 bds3 ba- Townhouse for sale
+"101 Ecclestone Dr, Brampton, ON L6X 3P4","C$849,900",3 bds3 ba- House for sale
+"132 Lauraglen Cres, Brampton, ON L6Y 5A3","C$799,900",3 bds2 ba- House for sale
+"LOT 174 Benhurst Cres, Brampton, ON L7A 5A5","C$1,010,000",4 bds3 ba- Townhouse for sale
+"25 Kensington Rd #503, Brampton, ON L6T 3W8","C$489,900",2 bds1 ba- Condo for sale
+"17 Dovesong Dr, Brampton, ON L6R 1V9","C$1,149,000",6 bds4 ba- House for sale
+"LOT 179 Benhurst Cres, Brampton, ON L7A 5A5","C$1,010,000",4 bds3 ba- Townhouse for sale
+"53 Wynview St, Brampton, ON L6P 3N3","C$999,000",6 bds4 ba- House for sale
+"26 Royce Ave, Brampton, ON L6Y 1J5","C$799,000",6 bds3 ba- House for sale
+"2 Leadership Dr, Brampton, ON L6Y 5V1","C$1,499,000",5 bds5 ba- House for sale
+"33 Taurus Rd, Brampton, ON L7A 4E5","C$1,099,999",5 bds4 ba- House for sale
+"32 Lobelia St #67, Brampton, ON L6R 3Z6","C$899,000",2 bds3 ba- Condo for sale
+"170 Havelock Dr #23, Brampton, ON L6W 4T3","C$699,813",3 bds3 ba- Townhouse for sale
+"128 Simmons Blvd, Brampton, ON L6V 3V6","C$779,900",3 bds3 ba- House for sale
+"259 Morningmist St, Brampton, ON L6R 2B8","C$869,000",3 bds4 ba- House for sale
+"4 Rosedale Ave, Brampton, ON L6X 1J8","C$1,499,999",4 bds4 ba- House for sale
+"14 Quailvalley Dr, Brampton, ON L6R 0N3","C$879,000",4 bds4 ba- Townhouse for sale
+"46 Prairie Creek Cres, Brampton, ON L6Y 6C9","C$1,399,000",4 bds6 ba- House for sale
+"16 Billiter Rd, Brampton, ON L7A 4G8","C$849,900",3 bds4 ba- House for sale
+"21 Delmonico Rd, Brampton, ON L6P 2K5","C$1,499,000",5 bds7 ba- House for sale
+"15 Dunure Cres, Brampton, ON L7A 2Y5","C$799,900",3 bds3 ba- House for sale
+"8 Utopia Way, Brampton, ON L6P 4A6","C$788,800",2 bds3 ba- Townhouse for sale
+"22 Rockrose Dr, Brampton, ON L6R 2Z7","C$899,999",4 bds4 ba- House for sale
+"99 New Pines Trl, Brampton, ON L6Z 0H8","C$799,900",3 bds4 ba- Townhouse for sale
+"28 Madelaine Cres, Brampton, ON L6S 2Y9","C$1,249,999",6 bds4 ba- House for sale
+"37 Totten Dr, Brampton, ON L6R 0P5","C$849,900",3 bds3 ba- Townhouse for sale
+"117 Naperton Dr, Brampton, ON L6R 3N5","C$957,000",4 bds3 ba- Townhouse for sale
+"14 Seville Ct, Brampton, ON L6Z 4B8","C$1,150,000",5 bds4 ba- House for sale
+"18 Knightsbridge Rd #2012, Brampton, ON L6T 3X5","C$549,900",3 bds2 ba- Condo for sale
+"104 Benhurst Cres, Brampton, ON L7A 5A5","C$1,079,900",4 bds3 ba- House for sale
+"64 Eagle Plains Dr, Brampton, ON L6R 3M3","C$1,249,900",4 bds4 ba- House for sale
+"83 Bonistel Cres, Brampton, ON L7A 3G9","C$1,075,000",3 bds3 ba- House for sale
+"57 Elwin Rd, Brampton, ON L6X 5J7","C$1,049,000",4 bds6 ba- House for sale
+"182 Tiller Trl, Brampton, ON L6X 4S8","C$749,000",3 bds3 ba- House for sale
+"60 Baycliffe Cres #411, Brampton, ON L7A 0Z4","C$475,000",1 bd1 ba674 sqft- Condo for sale
+"2 Jayfield Rd, Brampton, ON L6S 3G6","C$999,000",3 bds2 ba- House for sale
+"731 Balmoral Dr, Brampton, ON L6T 1X6","C$899,000",3 bds2 ba- House for sale
+"100 John St #1708, Brampton, ON L6W 0A8","C$669,000",2 bds2 ba- Condo for sale
+"6 Grouse Ln, Brampton, ON L6Y 5L1","C$1,499,000",4 bds5 ba- House for sale
+"77 Bonistel Cres, Brampton, ON L7A 3G9","C$1,169,000",4 bds4 ba- House for sale
+"80 Stedford Cres, Brampton, ON L7A 4P5","C$999,000",4 bds3 ba- House for sale
+"30 Pride Ct, Brampton, ON L6Y 5H3","C$2,650,000",4 bds5 ba- House for sale
+"577 Edenbrook Hill Dr, Brampton, ON L7A 4T4","C$1,149,000",6 bds5 ba- House for sale
+"2 Garden Park Ln, Brampton, ON L6X 0H1","C$799,000",3 bds3 ba- Townhouse for sale
+"20 Brentwood Dr, Brampton, ON L6T 1P9","C$849,900",4 bds2 ba- House for sale
+"1 Wayne Nicol Dr, Brampton, ON L6X 3Y5","C$998,888",7 bds4 ba- House for sale
+"28 Dalecrest Rd, Brampton, ON L6X 5N3","C$1,675,000",6 bds6 ba- House for sale
+"54 Sky Harbour Dr #207, Brampton, ON L6Y 6B9","C$449,900",2 bds1 ba- Condo for sale
+"21 Riverbank Rd, Brampton, ON L6R 2H4","C$1,149,999",8 bds4 ba- House for sale
+"4 Miracle Trl, Brampton, ON L7A 0Y3","C$899,000",3 bds3 ba- House for sale
+"72 Midsummer Dr, Brampton, ON L6P 3E4","C$2,675,999",8 bds12 ba- House for sale
+"13 Courtleigh Sq, Brampton, ON L6Z 1J2","C$729,900",3 bds2 ba- Townhouse for sale
+"10 Stalbridge Ave, Brampton, ON L6Y 4H1","C$899,900",5 bds4 ba- House for sale
+"1 Ecclestone Dr, Brampton, ON L6X 3L6","C$849,000",4 bds3 ba- House for sale
+"45 Kingswood Dr, Brampton, ON L6V 2X5","C$749,900",4 bds1 ba- Townhouse for sale
+"30 Flowertown Ave, Brampton, ON L6X 2K2","C$799,999",3 bds2 ba- House for sale
+"32 Faywood Dr, Brampton, ON L6Y 4K3","C$899,900",4 bds4 ba- House for sale
+"23 Delmonico Rd, Brampton, ON L6P 2W8","C$1,499,000",7 bds6 ba- House for sale
+"24 Victoriaville Rd, Brampton, ON L6X 5J3","C$1,299,000",6 bds4 ba- House for sale
+"17 Abercrombie Cres, Brampton, ON L7A 4N1","C$1,299,000",6 bds5 ba- House for sale
+"62 Yuile Ct, Brampton, ON L6Y 5J4","C$1,099,900",6 bds5 ba- House for sale
+"2 Garden Park Ln, Brampton, ON L6X 0H1","C$799,000",3 bds3 ba- Townhouse for sale
+"23 Delmonico Rd, Brampton, ON L6P 2W8","C$1,499,000",7 bds6 ba- House for sale
+"20 Brentwood Dr, Brampton, ON L6T 1P9","C$849,900",4 bds2 ba- House for sale
+"3 Dalbeattie Dr, Brampton, ON L6Y 6H3","C$799,000","4 bds3 ba1,822 sqft- Townhouse for sale"
+"7 Tobermory Cres, Brampton, ON L6V 4T6","C$978,888",4 bds4 ba- House for sale
+"152 Darras Ct UNIT 48, Brampton, ON L6T 1W7","C$599,000",4 bds2 ba- Townhouse for sale
+"5 Lisa St #507, Brampton, ON L6T 4T4","C$429,900",2 bds2 ba- Condo for sale
+"33 Ashen Tree Ln, Brampton, ON L7A 0T1","C$774,900","3 bds3 ba1,404 sqft- Townhouse for sale"
+"15 Autumn Ridge Dr, Brampton, ON L6R 0X4","C$1,399,990",4 bds6 ba- House for sale
+"20 Edenborough Dr, Brampton, ON L6T 3A1","C$879,900","5 bds2 ba1,100 sqft- House for sale"
+"41 Lawndale Cres, Brampton, ON L6S 3L3","C$799,900",4 bds3 ba- House for sale
+"32 Possession Cres, Brampton, ON L6P 4K3","C$2,329,000",5 bds5 ba- House for sale
+"2510 Countryside Dr #29, Brampton, ON L6R 3T4","C$699,000",4 bds4 ba- Townhouse for sale
+"18 Drayglass Ct, Brampton, ON L6Z 4E9","C$979,999","4 bds4 ba3,080 sqft- House for sale"
+"7 Trudelle Cres, Brampton, ON L7A 2Z5","C$799,000",3 bds3 ba- House for sale
+"10 Autumn Olive Way, Brampton, ON L6P 4L4","C$3,599,999",5 bds8 ba- House for sale
+"48 Rainbrook Clos, Brampton, ON L6R 0Y9","C$1,399,900",4 bds5 ba- House for sale
+"71 Mannel Cres, Brampton, ON L6Y 5E3","C$1,089,000",5 bds4 ba- House for sale
+"76 Fallmeadow Cir, Brampton, ON L6Y 0Y7","C$850,000",3 bds3 ba- House for sale
+"81 Mullis Cres, Brampton, ON L6Y 4S9","C$949,991",3 bds4 ba- House for sale
+"57 Briar Path #7, Brampton, ON L6T 2A3","C$599,999",3 bds2 ba- Condo for sale
+"1 Faye St, Brampton, ON L6P 4M9","C$975,000",4 bds4 ba- Townhouse for sale
+"43 Kempenfelt Trl, Brampton, ON L7A 0Z7","C$839,900",3 bds4 ba- Townhouse for sale
+"95 Meltwater Cres, Brampton, ON L6P 3W6","C$979,900",6 bds4 ba- House for sale
+"12 Birch Lake Ct, Brampton, ON L6P 3M6","C$1,179,900",6 bds4 ba- House for sale
+"399 Vodden St E #24, Brampton, ON L6V 3V1","C$669,000",3 bds3 ba- Condo for sale
+"90 Castlehill Rd, Brampton, ON L6X 4C7","C$1,079,900",4 bds4 ba- House for sale
+"87 Pertosa Dr, Brampton, ON L6X 4W7","C$1,099,000",4 bds4 ba- House for sale
+"116 Moregate Cres, Brampton, ON L6S 3K9","C$599,900",3 bds2 ba- Townhouse for sale
+"70 Cheviot Cres, Brampton, ON L6Z 4G7","C$849,900",3 bds3 ba- House for sale
+"93 Sea Drifter Cres, Brampton, ON L6P 4A8","C$869,000",3 bds3 ba- Townhouse for sale
+"8305 Mclaughlin Rd #27, Brampton, ON L6Y 5G3","C$649,000",3 bds4 ba- Townhouse for sale
+"30 Woodsend Run, Brampton, ON L6Y 4G8","C$715,000","4 bds4 ba1,300 sqft- House for sale"
+"306 Bartley Bull Pkwy, Brampton, ON L6W 2L3","C$929,900",4 bds3 ba- House for sale
+"6 Dumfries Ave, Brampton, ON L6Z 2Y5","C$849,900",3 bds3 ba- House for sale
+"33 Archdekin Dr, Brampton, ON L6V 1Y1","C$799,900",3 bds2 ba- House for sale
+"91 Dandelion Rd, Brampton, ON L6R 1X9","C$699,900",3 bds4 ba- House for sale
+"72 Woolridge Ct, Brampton, ON L6Y 3V6","C$995,000",3 bds4 ba- House for sale
+"64 Corby Cres, Brampton, ON L6Y 1H1","C$749,900",4 bds2 ba- House for sale
+"6 Clearview Ct, Brampton, ON L6Z 2B1","C$849,000",3 bds3 ba- House for sale
+"75 Unionville Cres, Brampton, ON L6P 2Z4","C$874,813",3 bds4 ba- Townhouse for sale
+"30 Hood Cres, Brampton, ON L6Y 4S6","C$879,900",3 bds4 ba- House for sale
+"33 Dunlop Ct, Brampton, ON L6X 4Z9","C$995,000",4 bds4 ba- House for sale
+"4 Sedgegrass Way, Brampton, ON L6R 3C8","C$1,043,000",3 bds4 ba- House for sale
+"32 Love Ct, Brampton, ON L6P 4H6","C$2,599,000",5 bds7 ba- House for sale
+"52 Mcmurchy Ave S, Brampton, ON L6X 1Y1","C$800,000",3 bds2 ba- House for sale
+"68 Ardglen Dr, Brampton, ON L6W 1V5","C$849,000",4 bds2 ba- House for sale
+"17 Grand Rapids Sq, Brampton, ON L6S 2H9","C$770,000",3 bds2 ba- House for sale
+"100 Swennen Dr, Brampton, ON L6V 4C9","C$799,900",3 bds3 ba- House for sale
+"86 Charleswood Cir, Brampton, ON L7A 1Z1","C$849,900",3 bds4 ba- House for sale
+"2 Harridine Rd, Brampton, ON L6X 3N8","C$899,900",3 bds4 ba- House for sale
+"29 Badger Ave, Brampton, ON L6R 1Z2","C$849,000",3 bds3 ba- Townhouse for sale
+"99 Aloma Cres, Brampton, ON L6T 2N8","C$799,900",5 bds3 ba- House for sale
+"38 Winterfold Dr, Brampton, ON L6V 3T2","C$749,800",3 bds2 ba- House for sale
+"210 Fleetwood Cres, Brampton, ON L6T 2E6","C$549,900",4 bds3 ba- Condo for sale
+"2 Clay Brick Ct #44, Brampton, ON L6V 4M7","C$689,900",3 bds2 ba- Condo for sale
+"22 Bramfield St, Brampton, ON L7A 2W2","C$949,000",5 bds4 ba- House for sale
+"84 Canary Clos, Brampton, ON L6X 5L1","C$1,299,000",4 bds5 ba- House for sale
+"18 Pleaseley Rd, Brampton, ON L6W 1K8","C$799,000",5 bds2 ba- House for sale
+"124 Baffin Cres, Brampton, ON L7A 4K9","C$799,999",4 bds4 ba- Townhouse for sale
+"9 Supino Cres, Brampton, ON L6P 1X2","C$1,600,000",4 bds5 ba- House for sale
+"92 Corby Cres, Brampton, ON L6Y 1H1","C$608,000",3 bds2 ba- Townhouse for sale
+"82 Greenmount Rd, Brampton, ON L6S 1T8","C$699,999",3 bds2 ba- House for sale
+"16 Ivybridge Dr, Brampton, ON L6V 2X2","C$899,000",3 bds2 ba- House for sale
+"31 Wilmont Ct, Brampton, ON L6X 4Z4","C$749,900",4 bds3 ba- Townhouse for sale
+"113 Ashton Cres, Brampton, ON L6S 3J9","C$669,900",3 bds2 ba- Condo for sale
+"25 Kensington Rd #204, Brampton, ON L6T 3W8","C$494,500",2 bds1 ba- Condo for sale
+"59 Nuffield St, Brampton, ON L6S 4X8","C$999,999",4 bds4 ba- House for sale
+"L76 Stellarton Cres, Brampton, ON L7A 5A6","C$1,899,000",7 bds6 ba- House for sale
+"46 Golden Springs Dr, Brampton, ON L7A 4N5","C$799,900",4 bds4 ba- Townhouse for sale
+"7 Hollyhedge Ct, Brampton, ON L6S 1R5","C$699,000",4 bds4 ba- House for sale
+"26 Grendon Cres, Brampton, ON L6X 5N4","C$1,499,900",4 bds6 ba- House for sale
+"58 Hollowgrove Blvd, Brampton, ON L6P 1A9","C$849,900",3 bds4 ba- House for sale
+"63 Trailside Walk, Brampton, ON L6S 6H6","C$1,088,888",4 bds6 ba- House for sale
+"44 Maddybeth Cres, Brampton, ON L6Y 5R8","C$1,199,999",4 bds5 ba- House for sale
+"210 Fleetwood Cres #183, Brampton, ON L6T 2E6","C$549,900",4 bds3 ba- Townhouse for sale
+"28 Bonavista Dr, Brampton, ON L6X 0N2","C$1,279,903",4 bds4 ba- House for sale
+"61 Cutters Cres, Brampton, ON L6Y 4M2","C$729,000",3 bds3 ba- Townhouse for sale
+"106 Lorenzo Cir, Brampton, ON L6R 3N4","C$789,000",3 bds4 ba- Townhouse for sale
+"71 Newlyn Cres, Brampton, ON L6V 3A9","C$799,900",5 bds3 ba- House for sale
+"30 Malta Ave #204, Brampton, ON L6Y 4S5","C$499,999",3 bds2 ba- Condo for sale
+"21 Sail Rd, Brampton, ON L7A 4W7","C$799,900",3 bds3 ba- Townhouse for sale
+"10 Lacewood Cres, Brampton, ON L6S 3K4","C$999,999",4 bds4 ba- House for sale
+"21 Enmount Dr, Brampton, ON L6T 4C8","C$589,000",3 bds3 ba- Condo for sale
+"13 Killick Rd, Brampton, ON L7A 0Y6","C$1,099,990",3 bds4 ba- House for sale
+"161 Clover Bloom Rd, Brampton, ON L6R 1S5","C$889,000","3 bds1 ba2,000 sqft- House for sale"
+"26 Bonistel Cres, Brampton, ON L7A 2R3","C$1,149,900",4 bds4 ba- House for sale
+"87 Seaborn Rd, Brampton, ON L6V 2C2","C$799,900",4 bds2 ba- House for sale
+"63 Vezna Cres, Brampton, ON L6X 5K4","C$999,999",6 bds4 ba- House for sale
+"21 Angelucci Dr, Brampton, ON L6P 1G7","C$1,199,900",6 bds4 ba- House for sale
+"20 Wintersnow Ct, Brampton, ON L6R 3G6","C$1,399,999",5 bds4 ba- House for sale
+"28 Dawnridge Trl, Brampton, ON L6Z 2A1","C$1,399,900",4 bds4 ba- House for sale
+"12 Tufton Cres, Brampton, ON L7A 3J1","C$1,099,900",4 bds5 ba- House for sale
+"182 Sunny Meadow Blvd, Brampton, ON L6R 2Z2","C$1,199,000",4 bds4 ba- House for sale
+"10 Summertime Ct, Brampton, ON L6Z 2B4","C$799,000",3 bds2 ba- House for sale
+"24 Black Forest Dr, Brampton, ON L6R 2M8","C$1,050,000",3 bds4 ba- House for sale
+"200 Veterans Dr #63, Brampton, ON L7A 4S6","C$749,000",3 bds3 ba- Condo for sale
+"14 Highland Trl, Brampton, ON L6S 1P4","C$679,000",3 bds2 ba- House for sale
+"476 Fernforest Dr, Brampton, ON L6R 2V5","C$1,248,100",4 bds5 ba- House for sale
+"221 Murray St, Brampton, ON L6X 3L8","C$849,000",3 bds3 ba- House for sale
+"11 Francesco St, Brampton, ON L7A 4N7","C$745,900",3 bds2 ba- House for sale
+"67 Roundstone Dr, Brampton, ON L6X 0K4","C$859,000",3 bds3 ba- House for sale
+"27 Meltwater Cres, Brampton, ON L6P 3V8","C$1,599,000",4 bds6 ba- House for sale
+"27 Scotia Dr, Brampton, ON L6Y 2W3","C$849,000",3 bds2 ba- House for sale
+"71 Mandarin Cres, Brampton, ON L6S 2S2","C$749,888",3 bds3 ba- House for sale
+"70 Mccleave Cres, Brampton, ON L6Y 4Y9","C$799,900",3 bds3 ba- Townhouse for sale
+"13 Madronna Gdns, Brampton, ON L7A 2V5","C$929,900",4 bds4 ba- House for sale
+"281 Fleetwood Cres, Brampton, ON L6T 2E7","C$679,000",4 bds3 ba- Condo for sale
+"16 Portstewart Cres, Brampton, ON L6X 0P5","C$1,099,000",3 bds4 ba- House for sale
+"19 Ferncastle Cres, Brampton, ON L7A 3P2","C$1,199,979",4 bds4 ba- House for sale
+"14 Colorado Pl, Brampton, ON L6R 2B3","C$1,199,000",6 bds4 ba- House for sale
+"129 Chipmunk Cres, Brampton, ON L6R 1B7","C$699,900",3 bds3 ba- Townhouse for sale
+"50 Sky Harbour Dr #406, Brampton, ON L6Y 6B8","C$549,000",3 bds2 ba- Condo for sale
+"41 Spencer Dr, Brampton, ON L7A 2A5","C$939,000",3 bds4 ba- House for sale
+"57 Callandar Rd, Brampton, ON L7A 5E2","C$889,000",4 bds3 ba- House for sale
+"51 Blackmere Cir, Brampton, ON L6W 4B9","C$999,000",3 bds4 ba- House for sale
+"49 Allangrove Dr, Brampton, ON L7A 2M3","C$899,000",3 bds4 ba- House for sale
+"23 Gondola Cres, Brampton, ON L6S 1W5","C$899,999",4 bds2 ba- House for sale
+"12 Castlehill Rd, Brampton, ON L6X 4E4","C$899,000",3 bds4 ba- House for sale
+"42 Domenico Cres, Brampton, ON L6P 1H5","C$899,000",3 bds4 ba- House for sale
+"46 Evalene Ct, Brampton, ON L6Z 3A5","C$849,999",3 bds3 ba- House for sale
+"9 Dalton Pl, Brampton, ON L6T 1N6","C$719,999",4 bds2 ba- House for sale
+"281 Fleetwood Cres #281, Brampton, ON L6T 2E7","C$679,000",4 bds3 ba- Townhouse for sale
+"6 Dunure Cres, Brampton, ON L7A 2Y5","C$999,900",4 bds4 ba- House for sale
+"40 Hudson Dr, Brampton, ON L6Y 2N7","C$1,099,000",6 bds4 ba- House for sale
+"107 Passfield Trl, Brampton, ON L6P 1V1","C$959,000",4 bds3 ba- Townhouse for sale
+"15 Noranda Cres, Brampton, ON L6Y 0M7","C$1,499,700",4 bds4 ba- House for sale
+"34 Albright Rd, Brampton, ON L6X 5C8","C$1,099,000",6 bds4 ba- House for sale
+"38 Robertson Davies Dr, Brampton, ON L7A 1K3","C$1,024,900",3 bds4 ba- House for sale
+"6 Louisburg Cres, Brampton, ON L6X 3A7","C$1,850,000",5 bds5 ba- House for sale
+"49 Eden Park Dr, Brampton, ON L6T 3A5","C$619,000",4 bds2 ba- Condo for sale
+"23 Mosley Cres, Brampton, ON L6Y 5C7","C$892,000",4 bds2 ba- House for sale
+"50 Craigleigh Cres, Brampton, ON L6T 2E3","C$649,000",5 bds3 ba- Condo for sale
+"Lot37la Allegro Dr, Brampton, ON L6Y 5Y7","C$859,900",4 bds4 ba- House for sale
+"33 Earl Grey Cres, Brampton, ON L7A 2L1","C$899,100",4 bds4 ba- House for sale
+"88 Charleswood Cir, Brampton, ON L7A 1Z1","C$899,000",5 bds4 ba- House for sale
+"57 Richgrove Dr, Brampton, ON L6P 1X6","C$1,799,000",4 bds5 ba- House for sale
+"51 Sweetwood Cir, Brampton, ON L7A 2X7","C$799,000",3 bds3 ba- House for sale
+"200 Cresthaven Rd #59, Brampton, ON L7A 1J5","C$648,900",3 bds2 ba- Condo for sale
+"10 Galtee Rd, Brampton, ON L6X 0J8","C$899,000",3 bds4 ba- House for sale
+"48 Kimborough Holw, Brampton, ON L6Y 5V3","C$999,900",4 bds5 ba- House for sale
+"29 Jacob Sq, Brampton, ON L6S 2M5","C$629,999",4 bds2 ba- Townhouse for sale
+"79 John Carroll Dr, Brampton, ON L6P 4J1","C$1,699,000",4 bds4 ba- House for sale
+"21 Haverstock Cres, Brampton, ON L7A 4E1","C$1,199,000","4 bds4 ba2,244 sqft- House for sale"
+"48 Parkview Pl, Brampton, ON L6W 2G4","C$1,255,855",5 bds4 ba- House for sale
+"340 Fleetwood Cres UNIT 340, Brampton, ON L6T 2E7","C$590,000",3 bds2 ba- Townhouse for sale
+"16 Ecclestone Dr, Brampton, ON L6X 3L6","C$879,000",3 bds3 ba- House for sale
+"3 Honeybee Dr, Brampton, ON L6R 3C5","C$999,000",4 bds4 ba- House for sale
+"3 Bellhaven Cres, Brampton, ON L6R 0W7","C$799,000",3 bds3 ba- Townhouse for sale
+"6 Redcastle St, Brampton, ON L7A 1P1","C$999,800",3 bds4 ba- House for sale
+"46 Portrush Trl, Brampton, ON L6X 0R2","C$889,900",3 bds4 ba- House for sale
+"53 Royal Orchard Dr, Brampton, ON L6X 4M6","C$788,999",2 bds2 ba- House for sale
+"116 Muirland Cres, Brampton, ON L6X 4G2","C$999,900",3 bds4 ba- House for sale
+"117 Muirland Cres, Brampton, ON L6X 4E9","C$980,000",6 bds4 ba- House for sale
+"58 Redfinch Way, Brampton, ON L7A 2B1","C$899,900",3 bds4 ba- Townhouse for sale
+"64 Stedford Cres, Brampton, ON L7A 4P5","C$999,900",3 bds3 ba- House for sale
+"97 Seahorse Ave, Brampton, ON L6V 4N5","C$899,999",4 bds4 ba- House for sale
+"27 Sir Michael Pl, Brampton, ON L7A 1Z4","C$1,049,000",4 bds4 ba- House for sale
+"75 Sparta Dr, Brampton, ON L6P 1H9","C$1,099,001",5 bds4 ba- House for sale
+"8 Moss Creek Ct, Brampton, ON L6R 2S3","C$1,199,000",8 bds6 ba- House for sale
+"8 Edsel Rd, Brampton, ON L7A 4K6","C$799,000",4 bds4 ba- Townhouse for sale
+"7 Donlamont Cir, Brampton, ON L7A 4T5","C$875,000",4 bds3 ba- Townhouse for sale
+"23 Calderstone Rd, Brampton, ON L6P 2A4","C$949,000",3 bds3 ba- House for sale
+"34 Tanager Sq, Brampton, ON L6Z 1X2","C$924,900",3 bds2 ba- House for sale
+"41 Humberstone Cres, Brampton, ON L7A 4C2","C$999,999",3 bds3 ba- House for sale
+"78 Mccleave Cres, Brampton, ON L6Y 4Y9","C$799,900",3 bds3 ba- House for sale
+"38 Mancroft Cres, Brampton, ON L6S 2V4","C$949,000",4 bds2 ba- House for sale
+"57 Chalkfarm Cres, Brampton, ON L7A 3W1","C$1,259,000",4 bds4 ba- House for sale
+"12 Norfolk Ave, Brampton, ON L6X 2B5","C$879,900",6 bds4 ba- House for sale
+"3 Lacebark Ct, Brampton, ON L6R 3M7","C$799,999",3 bds3 ba- Townhouse for sale
+"16 Polstar Rd, Brampton, ON L7A 4H1","C$1,249,000",4 bds4 ba- House for sale
+"8 Bassett Cres, Brampton, ON L6X 5G2","C$1,249,000",4 bds4 ba- House for sale
+"142 Vanhorne Clos, Brampton, ON L7A 4E9","C$989,000",3 bds4 ba- House for sale
+"60 Major William Sharpe Dr, Brampton, ON L6X 3J1","C$1,099,000",5 bds4 ba- House for sale
+"28 Tropical Ct, Brampton, ON L6Z 2B9","C$799,000",3 bds2 ba- House for sale
+"65 Agava St, Brampton, ON L7A 4S4","C$799,900",4 bds3 ba- House for sale
+"32 Snowshoe Ln, Brampton, ON L6R 0J1","C$849,900",4 bds3 ba- Townhouse for sale
+"13 Maddybeth Cres, Brampton, ON L6Y 5R7","C$1,199,900",4 bds4 ba- House for sale
+"9 Radford Dr, Brampton, ON L6V 2Y8","C$799,900",5 bds2 ba- House for sale
+"51 Monument Trl, Brampton, ON L7A 4M9","C$1,499,900",5 bds4 ba- House for sale
+"20 Dolucci Cres, Brampton, ON L7A 5E9","C$1,399,000",4 bds3 ba- House for sale
+"33 Tribune Dr, Brampton, ON L7A 0X5","C$869,900",3 bds4 ba- Townhouse for sale
+"28 Pellegrino Rd, Brampton, ON L7A 4V5","C$1,199,900",4 bds3 ba- House for sale
+"300 Ray Lawson Blvd #701, Brampton, ON L6Y 5H5","C$499,000",2 bds2 ba- Condo for sale
+"61 Sir Jacobs Cres, Brampton, ON L7A 3T5","C$1,299,900",4 bds3 ba- House for sale
+"27 Gilmore Dr, Brampton, ON L6V 3K3","C$599,999",3 bds3 ba- House for sale
+"17 Mossbank Dr, Brampton, ON L6W 3Z4","C$1,550,000",5 bds4 ba- House for sale
+"49 Sussexvale Dr, Brampton, ON L6R 3R5","C$969,000",3 bds3 ba- House for sale
+"250 Sunny Meadow Blvd UNIT 247, Brampton, ON L6R 3Y7","C$739,990",3 bds3 ba- Townhouse for sale
+"2 Craigleigh Cres #2, Brampton, ON L6T 2E3","C$639,999",3 bds2 ba- Condo for sale
+"29 Peel Village Pkwy, Brampton, ON L6W 1G4","C$1,249,900",5 bds4 ba- House for sale
+"17 Nadmarc St, Brampton, ON L6P 4J5","C$1,899,900",5 bds4 ba- House for sale
+"9438 Credit View Rd, Brampton, ON L6X 3A7","C$1,759,000",7 bds5 ba- House for sale
+"3 Garny Ct, Brampton, ON L6Y 4M7","C$1,149,000",5 bds4 ba- House for sale
+"28 Tigerlily Pl, Brampton, ON L6R 2C8","C$1,449,000",7 bds5 ba- House for sale
+"54 Colonel Bertram Rd, Brampton, ON L6Z 4P5","C$1,689,999",5 bds5 ba- House for sale
+"65 Yorkland Blvd N #605, Brampton, ON L6P 4M5","C$499,999",2 bds2 ba- Condo for sale
+"1 Vista Green Cres, Brampton, ON L7A 2R8","C$949,900",3 bds4 ba- House for sale
+"42 Roseville Dr, Brampton, ON L6Y 2G8","C$799,900",3 bds3 ba- House for sale
+"48 Dunblaine Cres, Brampton, ON L6T 3H2","C$949,999",3 bds2 ba- House for sale
+"9 Larande Ct, Brampton, ON L6Y 0M3","C$1,499,000",4 bds5 ba- House for sale
+"6 Cailiff St, Brampton, ON L6Y 0P9","C$649,900",3 bds3 ba- Condo for sale
+"94 Sea Drifter Cres, Brampton, ON L6P 4B1","C$839,000",3 bds4 ba- Townhouse for sale
+"33 Baby Pointe Trl, Brampton, ON L7A 0W3","C$929,900",4 bds3 ba- House for sale
+"4 Lisa St #1512, Brampton, ON L6T 4B6","C$499,900",3 bds2 ba- Condo for sale
+"26 Hanover Rd #605, Brampton, ON L6S 4T2","C$499,900",3 bds2 ba- Condo for sale
+"56 Spadina Rd, Brampton, ON L6X 4X6","C$699,900",3 bds2 ba- Townhouse for sale
+"62 Archdekin Dr, Brampton, ON L6V 1Y5","C$799,000",4 bds3 ba- House for sale
+"250 Sunny Meadow Blvd #283, Brampton, ON L6R 3Y7","C$659,900",2 bds2 ba- Townhouse for sale
+"23 Mincing Trl, Brampton, ON L7A 4T2","C$1,149,900",4 bds3 ba- House for sale
+"8 Dayspring Cir #1422, Brampton, ON L6P 2Z7","C$510,000",3 bds2 ba- Condo for sale
+"51 Metro Cres, Brampton, ON L7A 4P1","C$829,900",3 bds3 ba- Townhouse for sale
+"18 Valleyway Dr, Brampton, ON L6X 5G3","C$1,649,999",7 bds5 ba- House for sale
+"22 Pasadena Ave, Brampton, ON L6P 2W3","C$1,599,000",5 bds5 ba- House for sale
+"27 Tiller Trl, Brampton, ON L6X 4R6","C$799,900",3 bds3 ba- House for sale
+"76 Sundridge St, Brampton, ON L7A 1J7","C$939,500",4 bds3 ba- House for sale
+"143 Crystal Glen Cres, Brampton, ON L6X 0K6","C$879,000",4 bds4 ba- Townhouse for sale
+"6 Sterritt Dr, Brampton, ON L6Y 5E4","C$1,149,000",4 bds3 ba- House for sale
+"31 Colleyville St, Brampton, ON L7A 1G8","C$999,997","4 bds4 ba2,109 sqft- House for sale"
+"25 Flamingo Cres, Brampton, ON L6T 2G4","C$799,000","5 bds3 ba1,100 sqft- House for sale"
+"25 Haywood Dr, Brampton, ON L6X 0W1","C$2,150,000",4 bds4 ba- House for sale
+"23 Edenvalley Rd, Brampton, ON L7A 2M6","C$997,888",3 bds4 ba- House for sale
+"20 Raybeck Ct, Brampton, ON L6Y 0K1","C$1,299,999",4 bds4 ba- House for sale
+"34 Reeve Rd, Brampton, ON L6X 2M7","C$829,600",4 bds2 ba- House for sale
+"20 Longevity Rd, Brampton, ON L6X 5P3","C$1,799,999",5 bds5 ba- House for sale
+"74 Parkside Dr, Brampton, ON L6Y 2G9","C$1,149,900",6 bds4 ba- House for sale
+"67 Fruitvale Cir, Brampton, ON L7A 5C1","C$879,300",4 bds3 ba- House for sale
+"65 Fruitvale Cir, Brampton, ON L7A 5B9","C$879,300",4 bds3 ba- House for sale
+"59 Clover Bloom Rd, Brampton, ON L6R 1S4","C$799,000",3 bds4 ba- House for sale
+"4 Cornwall Rd, Brampton, ON L6W 1M9","C$799,000",3 bds2 ba- House for sale
+"98 Salisbury Cir, Brampton, ON L6V 2Z5","C$748,880",3 bds2 ba- House for sale
+"16 Niceview Dr, Brampton, ON L6R 0P6","C$1,799,999",4 bds5 ba- House for sale
+"5 Fairfield Ave, Brampton, ON L6X 2H9","C$829,900",3 bds2 ba- House for sale
+"6 September Pl, Brampton, ON L6R 0L8","C$869,900",3 bds4 ba- Townhouse for sale
+"6 Wildsky Rd, Brampton, ON L6Y 5P6","C$1,099,999",4 bds4 ba- House for sale
+"6 Bluffwood Cres, Brampton, ON L6P 2P4","C$1,499,000",7 bds6 ba- House for sale
+"27 Ridgemore Cres, Brampton, ON L7A 2L6","C$799,000",4 bds4 ba- House for sale
+"4 Rushbrook Dr, Brampton, ON L6P 1C6","C$1,299,000",4 bds5 ba- House for sale
+"10 Dayspring Cir #902, Brampton, ON L6P 1B9","C$699,900",2 bds2 ba- Condo for sale
+"14 Helios Pl, Brampton, ON L6Z 2B2","C$899,000",3 bds2 ba- House for sale
+"29 Poppy Bloom Ave, Brampton, ON L6R 1R9","C$889,000",4 bds4 ba- House for sale
+"41 Fallstar Cres, Brampton, ON L7A 2J6","C$999,999",4 bds4 ba- House for sale
+"55 Feathertop Ln, Brampton, ON L6R 1X1","C$889,900",3 bds4 ba- House for sale
+"80 Kettlewell Cres, Brampton, ON L6R 0T1","C$924,900",3 bds3 ba- House for sale
+"83 Blue Spruce St, Brampton, ON L6R 1C3","C$999,900",3 bds4 ba- House for sale
+"52 Lisson Cres, Brampton, ON L6X 5H9","C$1,699,000",7 bds7 ba- House for sale
+"39 Saint Dennis Rd, Brampton, ON L6R 3W7","C$899,900",4 bds3 ba- Townhouse for sale
+"3 Colonel Frank Ching Cres, Brampton, ON L6Y 5W5","C$749,000",3 bds4 ba- Townhouse for sale
+"84 Archibald St, Brampton, ON L6X 1L9","C$839,000",3 bds2 ba- House for sale
+"207 Checkerberry Cres, Brampton, ON L6R 3P8","C$899,900",4 bds4 ba- House for sale
+"130 Rockgarden Trl #145, Brampton, ON L6R 3N2","C$829,900",3 bds4 ba- Townhouse for sale
+"68 Commuter Dr, Brampton, ON L7A 0P8","C$1,149,900",3 bds4 ba- House for sale
+"369 Vodden St E, Brampton, ON L6V 1N5","C$879,900",4 bds2 ba- House for sale
+"90 Teal Crest Cir, Brampton, ON L6X 2Z4","C$899,000",4 bds4 ba- Townhouse for sale
+"5 Dunure Cres, Brampton, ON L7A 2Y5","C$799,900",4 bds4 ba- House for sale
+"44 Slipneedle St, Brampton, ON L6S 6L5","C$1,399,000",6 bds6 ba- House for sale
+"73 Acadian Hts, Brampton, ON L6Y 4H2","C$979,999",6 bds5 ba- House for sale
+"25 Kensington Rd #707, Brampton, ON L6T 3W8","C$535,000",3 bds2 ba- Condo for sale
+"24 Checkerberry Cres, Brampton, ON L6R 2S8","C$1,049,000",4 bds4 ba- House for sale
+"9 George St N #2206, Brampton, ON L6X 0T6","C$565,000",2 bds2 ba- Condo for sale
+"12 Rodwell Ct, Brampton, ON L6Y 4G7","C$999,999",3 bds4 ba- House for sale
+"62 Goodsway Trl, Brampton, ON L7A 4A4","C$739,000",3 bds3 ba- House for sale
+"104 Yellow Brick Rd, Brampton, ON L6V 4L1","C$849,999",4 bds3 ba- House for sale
+"58 Begonia Cres, Brampton, ON L7A 0M6","C$879,000",3 bds4 ba- House for sale
+"44 Mainard Cres, Brampton, ON L6R 2V1","C$1,029,100",3 bds4 ba- House for sale
+"27 Muirland Cres, Brampton, ON L6X 4P4","C$899,000",3 bds3 ba- House for sale
+"9 Blue Lake Ave, Brampton, ON L6X 4W1","C$999,000",3 bds3 ba- House for sale
+"29 Marblehead Cres, Brampton, ON L6S 2T8","C$799,999",3 bds2 ba- House for sale
+"255 Pressed Brick Dr, Brampton, ON L6V 4L3","C$799,000",3 bds3 ba- House for sale
+"10 Mugford Cres, Brampton, ON L6Y 6A7","C$1,799,999",8 bds6 ba- House for sale
+"310 Mill St S #207, Brampton, ON L6Y 3B1","C$429,900",1 bd2 ba- Condo for sale
+"24 Hanover Rd #1608, Brampton, ON L6S 5K8","C$510,000",3 bds2 ba- Condo for sale
+"6 Hybrid St, Brampton, ON L7A 0L5","C$1,199,000",4 bds3 ba- House for sale
+"54 Saintsbury Cres, Brampton, ON L6R 2V8","C$899,000",3 bds4 ba- House for sale
+"156 Inspire Blvd, Brampton, ON L6R 3X7","C$849,900",3 bds3 ba- Townhouse for sale
+"L234 Hawtrey Rd, Brampton, ON L7A 4X9","C$1,499,000",4 bds4 ba- House for sale
+"160 Queen Mary Dr, Brampton, ON L7A 1Z6","C$989,888",4 bds4 ba- House for sale
+"30 Softneedle Ave, Brampton, ON L6R 1K4","C$899,900",3 bds4 ba- House for sale
+"55 Mcgraw Ave, Brampton, ON L6X 3M5","C$849,900",3 bds3 ba- House for sale
+"142 Remembrance Rd, Brampton, ON L7A 4X1","C$899,900",4 bds4 ba- Townhouse for sale
+"28 Magnificent Ct, Brampton, ON L6P 2T2","C$1,169,000",4 bds4 ba- House for sale
+"10 Kettlewell Cres, Brampton, ON L6R 0T3","C$899,000",3 bds4 ba- House for sale
+"40 Morado Ct, Brampton, ON L6S 4H7","C$899,900",3 bds4 ba- House for sale
+"7 Farthingale Cres, Brampton, ON L7A 1R3","C$799,900",3 bds4 ba- House for sale
+"12 Sifton Pl, Brampton, ON L6Y 2N8","C$949,000",4 bds4 ba- House for sale
+"28 Saintsbury Cres, Brampton, ON L6R 2W3","C$949,900",4 bds4 ba- House for sale
+"94 Valleycreek Dr, Brampton, ON L6P 2C8","C$2,999,000",4 bds8 ba- House for sale
+"26 Goulston St, Brampton, ON L7A 5C2","C$899,813",4 bds3 ba- Townhouse for sale
+"21 Merrickville Way, Brampton, ON L6Y 0V5","C$750,000",4 bds4 ba- Townhouse for sale
+"1 Yellowknife Rd, Brampton, ON L6R 3X3","C$975,000",4 bds3 ba- House for sale
+"31 Blackmere Cir, Brampton, ON L6W 4B6","C$1,249,999",4 bds4 ba- House for sale
+"27 Cadillac Cres, Brampton, ON L7A 3B3","C$799,000",4 bds2 ba- House for sale
+"74 Majestic Cres, Brampton, ON L6S 3N2","C$849,900",3 bds2 ba- House for sale
+"50 Sky Harbour Dr #418, Brampton, ON L6Y 6B8","C$569,000",2 bds2 ba- Condo for sale
+"5 Lisa St #110, Brampton, ON L6T 4T4","C$439,000",2 bds1 ba- Condo for sale
+"102 Charcoal Way, Brampton, ON L6Y 5R9","C$829,900",3 bds4 ba- House for sale
+"31 Australia Dr, Brampton, ON L6R 3E4","C$1,189,000",4 bds3 ba- House for sale
+"92 Teal Crest Cir, Brampton, ON L6X 2Z4","C$829,900",3 bds4 ba- Townhouse for sale
+"60 Via Rosedale Way #304, Brampton, ON L6R 3X6","C$499,000",2 bds1 ba- Condo for sale
+"15 Mcgraw Ave, Brampton, ON L6X 3M1","C$849,900",4 bds3 ba- House for sale
+"20 Heathcliffe Sq #51, Brampton, ON L6S 5P8","C$648,900",4 bds3 ba- Condo for sale
+"80 Dewridge Ct, Brampton, ON L6R 3C1","C$885,000",3 bds3 ba- House for sale
+"43 Lacorra Way, Brampton, ON L6R 3P2","C$779,000",2 bds4 ba- Condo for sale
+"38 Noble Oaks Rd, Brampton, ON L6Y 2Z6","C$1,399,000",4 bds5 ba- House for sale
+"34 Fleetwood Cres UNIT 63, Brampton, ON L6T 2E5","C$620,000",3 bds3 ba- Townhouse for sale
+"47 Elwin Rd, Brampton, ON L6X 5J7","C$1,299,000",4 bds3 ba- House for sale
+"43 Amboise Cres, Brampton, ON L7A 3H2","C$937,900",2 bds3 ba- House for sale
+"8 Binsell Ave, Brampton, ON L6V 1W1","C$799,999",4 bds2 ba- House for sale
+"148 Tiller Trl, Brampton, ON L6X 4S8","C$949,990",3 bds4 ba- House for sale
+"5 Anatolia St, Brampton, ON L6P 4L3","C$2,699,900",5 bds6 ba- House for sale
+"22 Foxacre Row, Brampton, ON L6V 3P5","C$749,000",5 bds4 ba- House for sale
+"17 Crescent Hill Dr S, Brampton, ON L6S 2P4","C$1,949,900",4 bds4 ba- House for sale
+"105 Hansen Rd #10, Brampton, ON L6V 3C9","C$599,999",3 bds1 ba- Townhouse for sale
+"138 Agava St, Brampton, ON L7A 4S1","C$859,000",3 bds3 ba- Townhouse for sale
+"26 Sahara Trl, Brampton, ON L6R 1P3","C$1,079,000",4 bds4 ba- House for sale
+"43 Lacorra Way #31, Brampton, ON L6R 3P2","C$779,000",2 bds4 ba- Townhouse for sale
+"380 Conservation Dr, Brampton, ON L6Z 0B9","C$1,279,000",4 bds2 ba- House for sale
+"68 Atkins Cir, Brampton, ON L6X 4B5","C$899,000",3 bds4 ba- House for sale
+"20 Mancroft Cres, Brampton, ON L6S 2V4","C$1,050,000",4 bds3 ba- House for sale
+"8351 Mclaughlin Rd S #136, Brampton, ON L6Y 4H8","C$405,000",1 bd1 ba- Condo for sale
+"458 Brisdale Dr, Brampton, ON L7A 4J4","C$1,399,000",6 bds5 ba- House for sale
+"8351 Mclaughlin Rd S #136, Brampton, ON L6Y 4H8","C$405,000",1 bd1 ba- Condo for sale
+"20 Trailhead Cres, Brampton, ON L6R 3H3","C$1,399,900",4 bds6 ba- House for sale
+"44 Fresnel Rd, Brampton, ON L7A 4Z2","C$859,900",3 bds3 ba- Townhouse for sale
+"9 Faye St #30, Brampton, ON L6P 4M9","C$948,888",3 bds4 ba- Townhouse for sale
+"1 Hunters Cv, Brampton, ON L6S 1S3","C$789,000",4 bds3 ba- House for sale
+"46 Dearbourne Blvd #44, Brampton, ON L6T 1J7","C$599,999",3 bds2 ba- Condo for sale
+"26 Village Ct, Brampton, ON L6W 1A6","C$599,999",3 bds2 ba- Condo for sale
+"44 Fieldview Dr, Brampton, ON L6P 2X9","C$2,311,000",5 bds8 ba- House for sale
+"33 Marysfield Dr, Brampton, ON L6P 0J2","C$1,999,913",3 bds3 ba- House for sale
+"1 Fletchers Creek Blvd, Brampton, ON L6X 4R7","C$1,249,000",4 bds5 ba- House for sale
+"60 Studebaker Trl, Brampton, ON L7A 3A5","C$849,900",5 bds3 ba- House for sale
+"51 Stirrup Ct, Brampton, ON L6X 5A2","C$799,900",5 bds4 ba- Townhouse for sale
+"456 Remembrance Rd, Brampton, ON L7A 5E1","C$999,990",3 bds4 ba- Townhouse for sale
+"26 Village Ct #13, Brampton, ON L6W 1A6","C$599,999",3 bds2 ba- Townhouse for sale
+"23 Hawtrey Rd, Brampton, ON L7A 4X9","C$1,674,813",5 bds5 ba- House for sale
+"1 Newdale Pl, Brampton, ON L6S 5Z2","C$1,249,000",6 bds4 ba- House for sale
+"6 Thorson Gate, Brampton, ON L6V 3W9","C$899,000",3 bds3 ba- House for sale
+"66 Nuffield St, Brampton, ON L6S 5Y8","C$999,000",4 bds4 ba- House for sale
+"11 Topiary Ln, Brampton, ON L7A 2K6","C$799,000",3 bds4 ba- House for sale
+"19 Noble Oaks Rd, Brampton, ON L6Y 2Z6","C$1,649,700",4 bds5 ba- House for sale
+"10 Truro Cir, Brampton, ON L7A 4E4","C$1,049,990",4 bds3 ba- House for sale
+"3 Faye St, Brampton, ON L6P 4M9","C$949,900",4 bds4 ba- Townhouse for sale
+"45 Ravenscliffe Ct, Brampton, ON L6X 4N8","C$890,000",3 bds4 ba- House for sale
+"25 Bansbury Cir, Brampton, ON L6P 4H5","C$1,749,000",8 bds6 ba- House for sale
+"42 Peace Valley Cres, Brampton, ON L6R 1G3","C$799,000",4 bds4 ba- House for sale
+"20 Dragon Tree Cres, Brampton, ON L6R 2P6","C$1,349,000",7 bds5 ba- House for sale
+"51 Cassander Cres, Brampton, ON L6Z 1Z5","C$917,000",3 bds3 ba- House for sale
+"13 Mount Ranier Cres, Brampton, ON L6R 2K8","C$799,000",3 bds2 ba- House for sale
+"151 Pressed Brick Dr, Brampton, ON L6V 4K6","C$789,011",3 bds4 ba- Townhouse for sale
+"40 Cavendish Cres, Brampton, ON L6T 1Z4","C$850,000",3 bds3 ba- House for sale
+"12 Links Ln, Brampton, ON L6Y 5G9","C$2,499,000",4 bds5 ba- House for sale
+"9 Natural Ter, Brampton, ON L6Y 6A5","C$2,289,000",4 bds6 ba- House for sale
+"65 Yorkland Blvd #701, Brampton, ON L6P 4M5","C$559,900",2 bds2 ba- Condo for sale
+"52 Brunswick St, Brampton, ON L6X 4Z9","C$999,900",5 bds4 ba- House for sale
+"241 Queen Mary Dr, Brampton, ON L7A 3L3","C$1,199,000",6 bds4 ba- House for sale
+"134 Canada Goose Blvd, Brampton, ON L6R 2B1","C$1,100,000",4 bds3 ba- House for sale
+"900 Central Park Dr #66, Brampton, ON L6S 3J6","C$599,900",3 bds1 ba- House for sale
+"4 Miami Grv, Brampton, ON L6Z 0H7","C$824,900",4 bds3 ba- Townhouse for sale
+"94 Black Oak Dr, Brampton, ON L6R 1B8","C$899,900",3 bds4 ba- House for sale
+"32 Black Bear Trl, Brampton, ON L6Y 5L4","C$1,749,900",5 bds6 ba- House for sale
+"8 Laurier Ct, Brampton, ON L6Z 1J5","C$679,900",3 bds2 ba- Townhouse for sale
+"8 Lisa St #1201, Brampton, ON L6T 4S6","C$544,000",2 bds2 ba- Condo for sale
+"45 Kempenfelt Trl, Brampton, ON L7A 0Z7","C$899,000",4 bds3 ba- Townhouse for sale
+"42 Haverstock Cres, Brampton, ON L7A 4E1","C$1,599,999",4 bds5 ba- House for sale
+"3 Princess Valley Cres, Brampton, ON L6P 2B8","C$1,699,000",4 bds5 ba- House for sale
+"56 Woolridge Ct, Brampton, ON L6Y 3V7","C$999,000",5 bds4 ba- House for sale
+"52 Whitewash Way, Brampton, ON L6X 4V4","C$1,399,000",4 bds4 ba- House for sale
+"200 Malta Ave #TOWNHOUSE, Brampton, ON L6Y 6H8","C$775,000",4 bds3 ba- Condo for sale
+"10 Gold Pine Ct, Brampton, ON L6S 2K6","C$699,900",3 bds2 ba- Townhouse for sale
+"139 Greene Dr, Brampton, ON L6V 2P2","C$720,000",3 bds3 ba- Townhouse for sale
+"13 Shiff Cres, Brampton, ON L6Z 0H5","C$699,000",3 bds3 ba- Townhouse for sale
+"LOT 11 Street #A, Brampton, ON L6P 2J9","C$2,059,990",4 bds4 ba- House for sale
+"48 Beacon Hill Dr, Brampton, ON L6X 0V7","C$2,500,000",3 bds3 ba- House for sale
+"23 Garrison Sq, Brampton, ON L6S 2H3","C$789,000",4 bds2 ba- House for sale
+"12 Hindquarter Ct, Brampton, ON L6S 2C3","C$729,900",4 bds2 ba- House for sale
+"176 Church St E, Brampton, ON L6V 1H1","C$999,000",3 bds3 ba- House for sale
+"49 Campwood Cres, Brampton, ON L6P 3S6","C$969,900",3 bds3 ba- House for sale
+"27 Gower Cres, Brampton, ON L6R 0Y1","C$949,900",4 bds4 ba- House for sale
+"330 Mill St S #105, Brampton, ON L6Y 3V3","C$459,900",1 bd2 ba- Condo for sale
+"64 Leeward Dr, Brampton, ON L6S 5V8","C$999,000",3 bds3 ba- House for sale
+"14 Lost Canyon Way, Brampton, ON L6X 3A5","C$1,799,900",4 bds4 ba- House for sale
+"17 Buster Dr, Brampton, ON L6Y 5R2","C$1,350,000",4 bds5 ba- House for sale
+"30 Truffle Ct, Brampton, ON L7A 5A6","C$974,900",4 bds3 ba- House for sale
+"24 Kindle Ct, Brampton, ON L6Z 1B2","C$795,000",4 bds2 ba- House for sale
+"100 Starhill Cres, Brampton, ON L6R 2P8","C$839,900",3 bds4 ba- House for sale
+"13 Fawson Cove Way, Brampton, ON L6R 0G7","C$799,000",3 bds3 ba- House for sale
+"6 Chinzan Way, Brampton, ON L6X 0X3","C$1,699,990",4 bds6 ba- House for sale
+"4 Lisa St #1005, Brampton, ON L6T 4B6","C$495,000",3 bds2 ba- Condo for sale
+"20 Sewells Ln, Brampton, ON L7A 3A1","C$849,999",3 bds4 ba- House for sale
+"45 Hansen Rd N #99, Brampton, ON L6V 3C5","C$589,000",3 bds3 ba- Condo for sale
+"269 Bartley Bull Pkwy, Brampton, ON L6W 2L2","C$979,999",4 bds2 ba- House for sale
+"7 Accent Cir, Brampton, ON L7A 0L2","C$1,299,900",4 bds5 ba- House for sale
+"10699 Clarkway Dr, Brampton, ON L6P 0W2","C$1,799,000",4 bds2 ba- House for sale
+"4 Donlamont Cir, Brampton, ON L7A 4T5","C$880,000",4 bds3 ba- Townhouse for sale
+"37 Averill Rd, Brampton, ON L7A 5A7","C$1,249,900",5 bds4 ba- House for sale
+"146 Williamson Dr, Brampton, ON L7A 3T9","C$919,000",3 bds3 ba- House for sale
+"4 Lisa St #1210, Brampton, ON L6T 4B6","C$439,900",2 bds1 ba- Condo for sale
+"7 Clute Springs Ct, Brampton, ON L6Y 2A5","C$1,599,900",5 bds5 ba- House for sale
+"13 Cornwall Rd, Brampton, ON L6W 1M8","C$799,000",3 bds2 ba- House for sale
+"40 Michelangelo Blvd, Brampton, ON L6P 0H2","C$2,499,900","6 bds1 ba3,800 sqft- House for sale"
+"152 Cookview Dr, Brampton, ON L6R 3V1","C$1,599,000",6 bds5 ba- House for sale
+"14 Arizona Dr, Brampton, ON L6Y 0R6","C$409,900",4 bds4 ba- Townhouse for sale
+"46 Dearbourne Blvd #21, Brampton, ON L6T 1J7","C$544,999",Studio-- ba- Condo for sale
+"8351 Mclaughlin Rd #216, Brampton, ON L6Y 4H8","C$425,000",2 bds2 ba- Condo for sale
+"1 Bettey Rd, Brampton, ON L6P 1S9","C$1,379,000",8 bds5 ba- House for sale
+"15 Tinsmith St, Brampton, ON L7A 1N3","C$684,900",3 bds1 ba700 sqft- House for sale
+"7399 Mayfield Rd, Brampton, ON L6P 0H7","C$2,000,000",5 bds2 ba- House for sale
+"53 Michelangelo Blvd, Brampton, ON L6P 0H1","C$2,874,000","14 bds1 ba10,267 sqft- House for sale"
+"24 Padbury Trl, Brampton, ON L7A 4V2","C$1,249,000","5 bds1 ba3,433 sqft- House for sale"
+"45 Yorkland Blvd #905, Brampton, ON L6P 4B4","C$489,900",2 bds1 ba- Condo for sale
+"74 Volner Rd, Brampton, ON L7A 4P3","C$649,900",4 bds3 ba- Townhouse for sale
+"62 Corby Cres, Brampton, ON L6Y 1H1","C$569,900","4 bds2 ba1,488 sqft- House for sale"
+"27 Bonsai Ln, Brampton, ON L7A 0T9","C$799,000",3 bds3 ba- House for sale
+"4 Backwater Trl LOT 383, Brampton, ON L7A 5B9","C$620,000","2 bds2 ba1,310 sqft- House for sale"
+"33 Manitou Cres, Brampton, ON L6S 2Z6","C$735,000",Studio3 ba- House for sale
+"38 Estateview Cir, Brampton, ON L6P 0R6","C$2,745,000",Studio-- ba- House for sale
+"8 Rangemore Rd, Brampton, ON L7A 4V8","C$760,000",3 bds3 ba- House for sale
+"2 Leo Austin Rd, Brampton, ON L6P 4C2","C$1,499,000",4 bds4 ba- House for sale
+"75 Sweetwood Cir, Brampton, ON L7A 2S2","C$689,000",Studio-- ba- House for sale
+"111 Seaside Cir, Brampton, ON L6R 2G9","C$474,900",3 bds-- ba- House for sale
+"36 Matthew Harrison St, Brampton, ON L6P 3H3","C$729,000",4 bds3 ba- House for sale
+"7 Milford Cres, Brampton, ON L6S 3E3","C$569,900",5 bds4 ba- House for sale
+"Hindquarter Ct, Brampton, ON L6S 2C2","C$280,000",4 bds2 ba- House for sale
+"159 Brisdale Dr, Brampton, ON L7A 2Y8","C$529,900",4 bds4 ba- House for sale
