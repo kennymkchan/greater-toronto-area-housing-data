@@ -13,14 +13,14 @@
   <p align="center">
     Node script that will use Selenium to scrape card information from NBA Topshot including card names, rarity, and lowest cost at the moment.
     <br />
-    <a href="https://github.com/kennymkchan/toronto-housing-data"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kennymkchan/greater-toronto-area-housing-data"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kennymkchan/toronto-housing-data">View Demo</a>
+    <a href="https://github.com/kennymkchan/greater-toronto-area-housing-data">View Demo</a>
     ·
-    <a href="https://github.com/kennymkchan/toronto-housing-data/issues">Report Bug</a>
+    <a href="https://github.com/kennymkchan/greater-toronto-area-housing-data/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kennymkchan/toronto-housing-data/issues">Request Feature</a>
+    <a href="https://github.com/kennymkchan/greater-toronto-area-housing-data/issues">Request Feature</a>
   </p>
 </p>
 
@@ -66,20 +66,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kenny Chan - [@github](https://github.com/kennymkchan)
 
-Project Link: [https://github.com/kennymkchan/toronto-housing-data](https://github.com/kennymkchan/toronto-housing-data)
+Project Link: [https://github.com/kennymkchan/greater-toronto-area-housing-data](https://github.com/kennymkchan/greater-toronto-area-housing-data)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kennymkchan/toronto-housing-data.svg?style=for-the-badge
-[contributors-url]: https://github.com/kennymkchan/toronto-housing-data/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kennymkchan/toronto-housing-data.svg?style=for-the-badge
-[forks-url]: https://github.com/kennymkchan/toronto-housing-data/network/members
-[stars-shield]: https://img.shields.io/github/stars/kennymkchan/toronto-housing-data.svg?style=for-the-badge
-[stars-url]: https://github.com/kennymkchan/toronto-housing-data/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kennymkchan/toronto-housing-data.svg?style=for-the-badge
-[issues-url]: https://github.com/kennymkchan/toronto-housing-data/issues
-[license-shield]: https://img.shields.io/github/license/kennymkchan/toronto-housing-data.svg?style=for-the-badge
-[license-url]: https://github.com/kennymkchan/toronto-housing-data/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/kennymkchan/greater-toronto-area-housing-data.svg?style=for-the-badge
+[contributors-url]: https://github.com/kennymkchan/greater-toronto-area-housing-data/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kennymkchan/greater-toronto-area-housing-data.svg?style=for-the-badge
+[forks-url]: https://github.com/kennymkchan/greater-toronto-area-housing-data/network/members
+[stars-shield]: https://img.shields.io/github/stars/kennymkchan/greater-toronto-area-housing-data.svg?style=for-the-badge
+[stars-url]: https://github.com/kennymkchan/greater-toronto-area-housing-data/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kennymkchan/greater-toronto-area-housing-data.svg?style=for-the-badge
+[issues-url]: https://github.com/kennymkchan/greater-toronto-area-housing-data/issues
+[license-shield]: https://img.shields.io/github/license/kennymkchan/greater-toronto-area-housing-data.svg?style=for-the-badge
+[license-url]: https://github.com/kennymkchan/greater-toronto-area-housing-data/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kennymchan
