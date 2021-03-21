@@ -11,7 +11,7 @@
   <h1 align="center">GTA (Greater Toronto Area) Housing Data</h1>
 
   <p align="center">
-    Node script that will use Selenium to scrape card information from NBA Topshot including card names, rarity, and lowest cost at the moment.
+    Data scraped from various sites for housing data around the greater Toronto area (GTA). Scrapes happen daily and data is in both JSON and CSV formats. Free to use for analysis.
     <br />
     <a href="https://github.com/kennymkchan/greater-toronto-area-housing-data"><strong>Explore the docs »</strong></a>
     <br />
